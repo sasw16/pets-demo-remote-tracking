@@ -3,3 +3,5 @@ Dogs
 Horses
 Elephants
 Lions
+Tigers
+Rhinos
